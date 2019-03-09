@@ -3,9 +3,7 @@ A repo for http://adfpractice-fedor.blogspot.com/2019/03/serverless-api-with-azu
 
 Install Node.js packages in root folder:
 
- npm install azure-storage
- npm install durable-functions
- npm install sync-request
+ npm install azure-storage durable-functions sync-request
 
 
 Configure AccountName and AccountKey in local.settings.json, GetTaskId.js/index.js, SaveTask/index.js
