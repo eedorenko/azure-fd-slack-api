@@ -1,0 +1,10 @@
+{
+  "disabled": false,
+  "bindings": [
+    {
+      "name": "req",
+      "type": "activityTrigger",
+      "direction": "in"
+    }
+  ]
+}

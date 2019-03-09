@@ -1,0 +1,10 @@
+{
+  "disabled": false,
+  "bindings": [    
+    {
+      "name": "token",
+      "type": "activityTrigger",
+      "direction": "in"
+    }
+  ]
+}
